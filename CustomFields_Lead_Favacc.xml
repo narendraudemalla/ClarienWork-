@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Account.Customer_Id__c</members>
+		<members>Favorite_Account__c.Account_Type__c</members>
+		<members>Favorite_Account__c.Is_Favorite__c</members>
+		<members>Lead.Sub_Type__c</members>
+		<members>Lead.Type__c</members>
+		<members>Online_Activities__c.Activity_Description__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Favorite_Account__c</members>
+		<members>Online_Activities__c</members>
+		<name>CustomObject</name>
+	</types>
+	<version>60.0</version>
+</Package>
