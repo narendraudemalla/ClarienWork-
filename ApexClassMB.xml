@@ -281,5 +281,10 @@
 		<members>CBretSchdTransResponseWrapperTest</members>
 		<name>ApexClass</name>
 	</types>
+    <types>
+		<members>CBAccountTransactions</members>
+		<members>CBEReceiptDownload</members>
+		<name>ApexPage</name>
+	</types>
 	<version>60.0</version>
 </Package>
