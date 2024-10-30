@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CB_DebitCredit_Cards__mdt.detail</members>
+		<members>CB_Online_Activity_Configuration__mdt.detail</members>
+		<members>Debit_Card_Limit_Extension_ISO_Mapping__mdt.detail</members>
+		<name>ListView</name>
+	</types>
+	<types>
+		<members>Case.Apply_For_Card</members>
+		<members>Case.Mobile_Banking_Inbox</members>
+		<members>Case.Modify_Credit_Card_Limit</members>
+		<members>Case.Other</members>
+		<members>Case.Request_a_Draft</members>
+		<members>Case.Schedule_an_RM_Appointment</members>
+		<members>Case.Stop_Paper_Based_Statements</members>
+		<members>Lead.Apply_For_loan</members>
+		<name>RecordType</name>
+	</types>
+	<version>60.0</version>
+</Package>
