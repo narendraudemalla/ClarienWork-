@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Case.CB Service Request Process</members>
+		<name>BusinessProcess</name>
+	</types>
+	<types>
+		<members>CB_Account_Product_Code__mdt-en_US</members>
+		<members>CB_Online_Activity_Configuration__mdt-en_US</members>
+		<name>CustomObjectTranslation</name>
+	</types>
+	<types>
+		<members>CB_ATM_Location__c</members>
+		<name>CustomTab</name>
+	</types>
+	<version>60.0</version>
+</Package>
