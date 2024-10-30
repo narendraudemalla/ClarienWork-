@@ -107,8 +107,6 @@
 		<members>CBFetchMetaDataTest</members>
 		<members>CBFileUploadHandler</members>
 		<members>CBFileUploadHandlerTest</members>
-		<members>CBFindRelatedCampaigns</members>
-		<members>CBFindRelatedCampaignsTest</members>
 		<members>CBForgotPasswordHandler</members>
 		<members>CBForgotPasswordHandlerTest</members>
 		<members>CBForgotPasswordResponseWrapper</members>
@@ -285,6 +283,10 @@
 		<members>CBAccountTransactions</members>
 		<members>CBEReceiptDownload</members>
 		<name>ApexPage</name>
+	</types>
+    <types>
+		<members>is_MB_MFA_Enabled</members>
+		<name>CustomPermission</name>
 	</types>
 	<types>
 		<members>Campaign.Campaign_Info_External_URL__c</members>
