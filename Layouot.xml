@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CB_ATM_Location__c-CB ATM Location Layout</members>
+		<members>CB_Clarien_Link__mdt-CB Clarien Link Layout</members>
+		<members>CB_DebitCredit_Cards__mdt-CB_DebitCredit_Card Layout</members>
+		<members>CB_List_Of_Values_Registry__mdt-CB List Of Values Registry Layout</members>
+		<members>CB_MB_Static_Data_Configuration__mdt-CB MB Static Data Configuration Layout</members>
+		<members>CB_Outbound_API_Request_Detail__mdt-CB Outbound API Request Detail Layout</members>
+		<members>CB_Outbound_API_Request_Field_Mapping__mdt-CB Outbound API Request Field Mapping Layout</members>
+		<members>CB_Transaction_Category__mdt-CB Transaction Category Layout</members>
+		<members>CB_eReceipt_Config__mdt-CB eReceipt Config Layout</members>
+		<members>CB_eReceipt_Mappings_Config__mdt-CB eReceipt Mappings Config Layout</members>
+		<members>Case-Case Layout</members>
+		<members>Case-Custom Case Layout</members>
+		<members>Case-Mobile Banking Inbox</members>
+		<members>Debit_Card_Limit_Extension_ISO_Mapping__mdt-Debit Card Limit Extension ISO Mapping Layout</members>
+		<members>Favorite_Account__c-Favorite Account Layout</members>
+		<members>ISO_Country__mdt-ISO Country Layout</members>
+		<members>ISO_State__mdt-ISO State Layout</members>
+		<members>MB_Security_Configuration__mdt-MB Security Configuration Layout</members>
+		<members>Online_Activities__c-Online Activities Layout</members>
+		<name>Layout</name>
+	</types>
+	<version>60.0</version>
+</Package>
