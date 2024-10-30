@@ -281,10 +281,31 @@
 		<members>CBretSchdTransResponseWrapperTest</members>
 		<name>ApexClass</name>
 	</types>
-    <types>
+	<types>
 		<members>CBAccountTransactions</members>
 		<members>CBEReceiptDownload</members>
 		<name>ApexPage</name>
+	</types>
+	<types>
+		<members>Campaign.Campaign_Info_External_URL__c</members>
+		<members>ISO_Country__mdt.Avaiable_For_Domestic__c</members>
+		<members>ISO_Country__mdt.Avaiable_For_International__c</members>
+		<members>ISO_Country__mdt.Country_Name__c</members>
+		<members>ISO_Country__mdt.Display_Country_Name__c</members>
+		<members>ISO_Country__mdt.ISO_2_Character_Code__c</members>
+		<members>ISO_Country__mdt.ISO_Code__c</members>
+		<members>ISO_Country__mdt.Is_Active__c</members>
+		<members>ISO_Country__mdt.Region__c</members>
+		<members>ISO_State__mdt.Display_Province_Name__c</members>
+		<members>ISO_State__mdt.ISO_Country_Code__c</members>
+		<members>ISO_State__mdt.Is_Active__c</members>
+		<members>ISO_State__mdt.Province_Code__c</members>
+		<members>ISO_State__mdt.Province_Name__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>CBTransClarienLogo</members>
+		<name>StaticResource</name>
 	</types>
 	<version>60.0</version>
 </Package>
