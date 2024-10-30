@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Apply_For_Card</members>
+		<members>Loans_and_Cards</members>
+		<members>Modify_Credit_Card_Limit</members>
+		<members>Request_a_Draft</members>
+		<members>Schedule_an_RM_Appointment</members>
+		<members>Stop_Paper_Based_Statements</members>
+		<name>FlexiPage</name>
+	</types>
+	<version>60.0</version>
+</Package>
