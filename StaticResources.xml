@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>AccountCardBg</members>
+		<members>CBAutenticationFailed</members>
+		<members>CBAutenticationSuccess</members>
+		<members>CBGothamBoldFont</members>
+		<members>CBGothamBookFont</members>
+		<members>CBGothamMediumFont</members>
+		<members>CBOfferBg</members>
+		<members>CBPng</members>
+		<members>CBSVG</members>
+		<members>CBTransClarienLogo</members>
+		<members>CB_Online_Activity_Config</members>
+		<members>ClarienAppBg</members>
+		<members>ClarienLogo</members>
+		<members>CreditCardBg</members>
+		<members>CreditCardImage</members>
+		<members>CustomComboboxStyles</members>
+		<members>JSQR</members>
+		<members>LoginFlowImages</members>
+		<members>LogoQrCode</members>
+		<members>MapCustomCss</members>
+		<members>MapCustomCss2</members>
+		<members>PDFLib</members>
+		<members>ParentMapCustomCss</members>
+		<members>PngLogos</members>
+		<members>PromImage</members>
+		<members>SiteSamples</members>
+		<members>html5QrcodeBundle</members>
+		<members>loginBg4</members>
+		<members>transactionStyle</members>
+		<name>StaticResource</name>
+	</types>
+	<version>60.0</version>
+</Package>
