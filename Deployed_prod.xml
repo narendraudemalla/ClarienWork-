@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CBCreateMBUser</members>
+		<members>CBCreateMBUserTest</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>MB_Security_Configuration.MFA_Private_Key</members>
+		<name>CustomMetadata</name>
+	</types>
+	<version>60.0</version>
+</Package>
