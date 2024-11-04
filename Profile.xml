@@ -2,6 +2,11 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
 		<members>Retail%2FPB Relationship Manager</members>
+		<members>Bank User %28Help Desk%29</members>
+		<members>Call Center</members>
+		<members>MarketingProfile</members>
+		<members>Mobile Banking Admin</members>
+		<members>Operations</members>
 		<name>Profile</name>
 	</types>
 	<version>60.0</version>
