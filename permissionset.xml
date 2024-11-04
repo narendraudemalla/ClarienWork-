@@ -13,6 +13,7 @@
 		<members>Clarien_Audit_Log_Viewer</members>
 		<members>Community_User_Management</members>
 		<members>Salesforce_User_Management</members>
+		<members>Email_Management</members>
 		<name>PermissionSet</name>
 	</types>
 	<version>60.0</version>
