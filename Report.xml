@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>unfiled$public/Monthly_Account_Establishment1</members>
+		<members>unfiled$public/Monthly_Leads_Establishment</members>
+		<members>unfiled$public/Reports_Leads_by_Status</members>
+		<name>Report</name>
+	</types>
+	<version>60.0</version>
+</Package>
