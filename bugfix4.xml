@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CB_Service_Request_Email__mdt.Email__c</members>
+        <members>CB_Service_Request_Email__mdt.Request_Type_Reason__c</members>
+        <members>CB_Service_Request_Email__mdt.isActive__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>CB_Service_Request_Email.Account_Info</members>
+        <members>CB_Service_Request_Email.Apply_For_Debit_Card</members>
+        <members>CB_Service_Request_Email.Apply_for_Credit_Card</members>
+        <members>CB_Service_Request_Email.Apply_for_Loan</members>
+        <members>CB_Service_Request_Email.Appointment_Request</members>
+        <members>CB_Service_Request_Email.Complaint</members>
+        <members>CB_Service_Request_Email.Liquidity_Withdrawal_Notice</members>
+        <members>CB_Service_Request_Email.Schedule_an_RM_Appointment</members>
+        <members>CB_Service_Request_Email.Techincal_Issue</members>
+        <members>CB_Service_Request_Email.Transaction_Dispute</members>
+        <members>CB_Service_Request_Email.Travel_Notification</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>CB_Service_Request_Email__mdt</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>CB_Service_Request_Email__mdt-CB Service Request Email Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>60.0</version>
+</Package>
