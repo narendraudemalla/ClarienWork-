@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO526186_1</members>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO526186_2</members>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO526186_3</members>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO526186_4</members>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO526186_5</members>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO531192_1</members>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO531192_2</members>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO531192_3</members>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO531192_4</members>
+        <members>Debit_Card_Limit_Extension_ISO_Mapping.ISO531192_5</members>
+        <name>CustomMetadata</name>
+    </types>
+    <version>60.0</version>
+</Package>
