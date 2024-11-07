@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CaseTriggerTest</members>
+		<members>CaseTriggerhandler</members>
+		<members>CaseTriggerhandlerTest</members>
+		<members>LeadTriggerHandler</members>
+		<members>LeadTriggerHandlerTest</members>
+		<members>LeadTriggerTest</members>
+		<members>NotificationEmailHelper</members>
+		<members>NotificationEmailHelperTest</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>CaseTrigger</members>
+		<members>LeadTrigger</members>
+		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>MobileAppRegistration</members>
+		<name>FlexiPage</name>
+	</types>
+	<version>60.0</version>
+</Package>
