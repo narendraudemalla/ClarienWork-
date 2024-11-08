@@ -1,0 +1,47 @@
+<? xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+  <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+ 
+    <types>
+      <members>cBAddBeneficiaryDomestic</members>
+      <members>cBApplyNowIssueChequebook</members>
+      <members>cBApplyNowLoans</members>
+      <members>cBApprovalsNew</members>
+      <members>cBAtmMap</members>
+      <members>cBAtmMapParent</members>
+      <members>cBChangePassword</members>
+      <members>cBCreditCard</members>
+      <members>cBErrorComponent</members>
+      <members>cBFavoriteAccounts</members>
+      <members>cBFilterCreditCardAccountModal</members>
+      <members>cBFilterCurrentAccount</members>
+      <members>cBInvestmentProfile</members>
+      <members>cBLoginExchangeRates</members>
+      <members>cBMFAController</members>
+      <members>cBOffers</members>
+      <members>cBOperationConfirm</members>
+      <members>cBOperationConfirmWLoading</members>
+      <members>cBQueryOnChequeBook</members>
+      <members>cBRequestDraftConfirmation</members>
+      <members>cBResuableSuccessModal</members>
+      <members>cBReusableSuccessModalCmpLogo</members>
+      <members>cBSavingAccountOpening</members>
+      <members>cBSearchFilterModal</members>
+      <members>cBSecondaryHeader</members>
+      <members>cBSelectTransactionDateModal</members>
+      <members>cBServiceRequest</members>
+      <members>cBSessionEnd</members>
+      <members>cBStopPaperBasedStatements</members>
+      <members>cBTimeDepositAccountConfirmation</members>
+      <members>cBTopUpAccountConfirmation</members>
+      <members>cBViewStopIssuedCheques</members>
+      <members>cBMyMessages</members>
+      <members>cBTransfers</members>
+    <members>cBOtpHandler</members>
+      <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>CBOTPExpiryTimeInMinutes</members>
+        <name>CustomLabel</name>
+    </types>
+    <version>60.0</version>
+  </Package>
