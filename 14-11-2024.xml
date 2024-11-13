@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CB_AdhocBillPay_101443</members>
+        <members>CB_Own_Account_Transfer_101443</members>
+        <members>CB_TransferAdhoc_101443</members>
+        <members>CB_TransferBenef_101443</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>cBOwnAccountTransferConfTrans</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>60.0</version>
+</Package>
