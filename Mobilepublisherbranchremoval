@@ -1,0 +1,5 @@
+SELECT Id, Name, sf_devops__Concluded__c, sf_devops__Rebase_Branch__c 
+FROM sf_devops__Work_Item__c 
+WHERE Name IN ('WI-000132', 'WI-000143', 'WI-000152', 'WI-000166', 
+               'WI-000168', 'WI-000171', 'WI-000175', 'WI-000176', 
+               'WI-000181', 'WI-000189', 'WI-000187', 'WI-000202')
