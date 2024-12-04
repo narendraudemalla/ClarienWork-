@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+    <members>CBFetchMetaData</members>
+    <members>CBFetchMetaDataTest</members>
+    <name>ApexClass</name>
+</types>
+<types>
+    <members>CB_Account_Product_Code__mdt.AutoCloseOnMaturityFlg__c</members>
+    <members>CB_Account_Product_Code__mdt.AutoRenewalflg__c</members>
+    <name>CustomField</name>
+</types>
+<types>
+    <members>CB_AccountOpeningMaxDurationMessage</members>
+    <members>CB_TopUpAccountOpeningDurationMessage</members>
+    <name>CustomLabel</name>
+</types>
+<types>
+    <members>CB_Account_Product_Code.ACCCO</members>
+    <members>CB_Account_Product_Code.ACCPL</members>
+    <members>CB_Account_Product_Code.EMSVR</members>
+    <members>CB_Account_Product_Code.SVRCO</members>
+    <members>CB_Account_Product_Code.SVRPL</members>
+     <name>CustomMetadata</name>
+</types>
+<types>
+    <members>cBTopUpAccountConfirmation</members>
+    <members>cBTopUpAccountOpening</members>
+    <name>LightningComponentBundle</name>
+</types>
+<version>62.0</version>
+</Package>
