@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+        <members>ResidentialLoanApplication.Vehicle_Loan</members>
+        <members>LoanApplicationAsset.Vehicle_Loan</members>
+        <members>LoanApplicationLiability.Vehicle_Loan</members>
+        <members>Task.Vehicle_Loan</members>
+        <members>Contact.Vehicle_Loan</members>
+        <members>LoanApplicantIncome.Vehicle_Loan</members>
+        <members>LoanApplicant.Vehicle_Loan</members>
+        <name>RecordType</name>
+    </types>
+    
+    <types>
+        <members>TaskType</members>
+        <members>RLAAppStatus</members>
+        <members>LAIIncomeSourceType</members>
+        <name>StandardValueSet</name>
+    </types>
+    
+    <types>
+        <members>newBannerImage</members>
+        <members>checkeligibility</members>
+        <members>PreCheckExternalStyle</members>
+        <members>LoanApplicationCSS4</members>
+        <name>StaticResource</name>
+    </types>
+    
+    <types>
+        <members>ResidentialLoanApplication.CDL_Term_Max_Value</members>
+        <members>ResidentialLoanApplication.CDL_LA_Only_Letters</members>
+        <members>ResidentialLoanApplication.CDL_Principal_Greater_Than_Zero</members>
+        <members>ResidentialLoanApplication.CDL_Interest_Rate_Greater_Than_Zero</members>
+        <members>ResidentialLoanApplication.CDL_Term_Greater_Than_Zero</members>
+        <members>ResidentialLoanApplication.CDL_Principal_Max_Value</members>
+        <members>LoanApplicantAddress.CDD_Only_Letters_Mortgage_Name</members>
+        <members>LoanApplicantAddress.CDD_Only_Letters_Name</members>
+        <members>LoanApplicant.ApprovalstatusSubmitted</members>
+        <members>Vehicle_Details__c.ApprovalstatusSubmitted</members>
+        <members>LoanApplicantAddress.ApprovalstatusSubmitted</members>
+        <members>LoanApplicantEmployment.ApprovalstatusSubmitted</members>
+        <members>LoanApplicantIncome.ApprovalstatusSubmitted</members>
+        <members>Loan_Applicant_Expense__c.ApprovalstatusSubmitted</members>
+        <members>LoanApplicationAsset.ApprovalstatusSubmitted</members>
+        <members>LoanApplicationLiability.ApprovalstatusSubmitted</members>
+        <members>DocumentChecklistItem.ApprovalstatusSubmitted</members>
+        <members>ResidentialLoanApplication.CDL_Rejection_reason_required</members>
+        <members>LoanApplicant.CDL_Phone_Max_Digits</members>
+        <members>ResidentialLoanApplication.ApprovalstatusSubmitted</members>
+        <members>LoanApplicant.AgeError</members>
+        <members>LoanApplicantIncome.LoanApplicantIncome_Include_Restriction</members>
+        <members>LoanApplicantEmployment.Salary_Employer_Address_Required</members>
+        <members>LoanApplicantEmployment.Salary_Employer_City_Required</members>
+        <members>LoanApplicantEmployment.Salary_Employer_Country_Required</members>
+        <members>LoanApplicantEmployment.Salary_Employer_Postal_Code_Required</members>
+        <members>LoanApplicationAsset.LoanApplicantIncome_Include_Restriction</members>
+        <members>Loan_Applicant_Expense__c.Borrower_Include_Restriction</members>
+        <name>ValidationRule</name>
+    </types>
+	<version>62.0</version>
+</Package>
