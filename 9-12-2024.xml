@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>cBTopUpAccountConfirmation</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<version>62.0</version>
+</Package>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CB_Success_Message_Code.Credit_Card_Summary_Code</members>
+        <name>CustomMetadata</name>
+    </types>
+    <version>62.0</version>
+</Package>
