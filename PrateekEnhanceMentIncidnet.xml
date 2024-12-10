@@ -6,6 +6,8 @@
 		<members>CBErrorHandler</members>
 		<members>CBErrorHandlerTest</members>
 		<members>CBLogWrapper</members>
+		<members>CBLoginController</members>
+		<members>CBLoginControllerTest</members>
         <members>CBLogWrapperTest</members>
         <name>ApexClass</name>
 	</types>
