@@ -8,7 +8,7 @@
 		<members>CBLogWrapper</members>
 		<members>CBLoginController</members>
 		<members>CBLoginControllerTest</members>
-        <members>CBLogWrapperTest</members>
+        	<members>CBLogWrapperTest</members>
         <name>ApexClass</name>
 	</types>
 	<types>
@@ -26,6 +26,11 @@
 		<members>Log__c.MB_UserId__c</members>
 		<name>CustomField</name>
 	</types>
+	<types>
+        	<members>MBLogEntryRecordPage</members>
+        	<members>MBLogRecordPage</members>
+        <name>FlexiPage</name>
+    	</types>
 	<types>
 		<members>CB_Error_Message_Code_Path.Credit_Card</members>
 		<members>CB_Error_Message_Code_Path.Error_Code_Type_1</members>
